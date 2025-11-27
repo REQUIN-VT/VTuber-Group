@@ -15,7 +15,7 @@ window.addEventListener('scroll', () => {
 const members = [
     {
         name: "Haru Hayazame",
-        img: "assets/talent-cover/haru.png",
+        img: "assets/talent-cover/Haru.png",
         desc: "Naval Admiral of the group, an albino merfolk who has a soft voice.",
         streams: "https://kick.com/harurequinvt",
         site: "https://hayazame-haru.github.io/talent-info/",
@@ -683,3 +683,4 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 });
+
